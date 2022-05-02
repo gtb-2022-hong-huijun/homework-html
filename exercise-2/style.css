@@ -21,6 +21,8 @@ table td, table th {
     border: solid #e0e0dc;
     border-width: 0 1px 1px 0;
     padding: 8px 12px;
+    font-family: "Times New Roman";
+    font-weight: bold;
 }
 
 table tfoot td {
